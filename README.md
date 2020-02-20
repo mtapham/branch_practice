@@ -4,10 +4,7 @@ These are a few of my favorite things:
 
 - Flowers (Daisies)
 - Flowers (Roses)
-<<<<<<< HEAD
-- Flowers (Gardenias)
-=======
->>>>>>> experiment
+- Flowers 
 - Raindrops on roses
 - Whiskers on kittens
 - Bright copper kettles
