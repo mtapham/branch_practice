@@ -1,3 +1,3 @@
-print("Hello Partner! You are a supa star!")
+print("Hello! You are a supa star!")
 
 print("im confused")
